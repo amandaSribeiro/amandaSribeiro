@@ -1,5 +1,5 @@
 # 💫 About Me:
-📚Estudando UX/UI<br>
+📚Estudando desenvolvimento web<br>
 🎓Cursando Desenvolvimento de Software Multiplataformas<br>
 🖥️Desenvolvedora Front-End
 
